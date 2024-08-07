@@ -1,7 +1,7 @@
 @import url(/scss/base/navbar.css);
 @import url(/scss/utilities/loader.css);
-@import url(/scss/components/botton.css);
 @import url(/scss/utilities/form.css);
+@import url(/scss/components/botton.css);
 .content_card {
   margin: 50px;
   display: grid;
